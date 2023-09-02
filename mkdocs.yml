@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Devops Documentation REZ CORP
+theme: 
+   name: material
+nav:
+  - Home: 'index.md'
+  - 'Red Tech' :
+     - 'Akash':
+        - 'Docs' :
+           - 'SSL' : 'red-tech/akash/docs/ssl/akash-ssl.md'
+
+  - About: 'about.md'
+  - User Guide : 'userguide.md'

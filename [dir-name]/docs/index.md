@@ -1,6 +1,6 @@
-# Welcome to DevOps Documentation REZ TECH
+# Welcome to MkDocs
 
-Welcome to our documetation project . User will find necessary docs for maintanance of our infra. Also root cause analysis for different scenarios and problems
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
